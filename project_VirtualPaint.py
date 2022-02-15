@@ -1,6 +1,6 @@
 #ColorDetection
 
-#"color Detection" is a python AI program that can Detect the color's present in the background and also differentiate the color component using the camera and some functionalitues of AI.
+#"Virtual" is a python AI program that can Allow us to draw in the air just by using the gestures of our hand .
 
 #code:
 
