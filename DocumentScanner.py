@@ -1,3 +1,12 @@
+#Document Scanner
+
+#"Document Scanner" is an application that can scan various documents using the AI functionalities without having the Scanner.
+#pre-requirements: pip install opencv
+
+
+#code:
+
+
 import cv2
 import numpy as np
 
