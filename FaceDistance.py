@@ -1,3 +1,11 @@
+#Face Distance Detector
+
+#"Face Distance Detector" is a python AI application that can detect the distance of human face from the camera located at the system. 
+
+#pre-requirements: pip install opencv, cvzone, FaceMeshDetector.
+
+
+
 import cv2
 import cvzone
 from cvzone.FaceMeshModule import FaceMeshDetector
